@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RazorPay</string>
+    <string name="enter_amount_to_be_payed">Enter amount to be payed</string>
+    <string name="pay_using_razorpay">Pay using RazorPay</string>
+</resources>
